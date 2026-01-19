@@ -153,7 +153,7 @@ const Hero = () => {
           animate="visible"
         >
           <PrimaryButton
-            href="./public/cheatcheck.zip"
+            href="https://cheat-checker.vercel.app/cheatcheck.zip"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
