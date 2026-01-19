@@ -5,7 +5,6 @@ import React, { useState } from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
 import AnimatedSection from '../components/AnimatedSection';
-import { PrimaryButton } from '../components/Hero';
 
 const Container = styled.div`
   min-height: 100vh;
