@@ -191,7 +191,6 @@ const SecondaryButton = styled(motion.a)`
 `;
 
 const Hero = ({ 
-  backgroundImage = 'https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80',
   overlayText = 'Cheat Checker',
   gameTitle = 'вашего проекта'
 }) => {
@@ -225,7 +224,7 @@ const Hero = ({
   return (
     <HeroSection>
       <HeroBackground>
-        <BackgroundImage $imageUrl={backgroundImage} />
+        <BackgroundImage />
         <OverlayText>
           {overlayText}
         </OverlayText>
