@@ -158,7 +158,7 @@ const Documentation = () => {
             </Paragraph>
             
             <SubSectionTitle>1. Установка</SubSectionTitle>
-              <a className='down-but' href='https://cheat-checker.vercel.app/public/cheatcheck.zip' download>Нажмите на этот текст, чтобы начать скачку.</a>
+              <a className='down-but' href='https://cheat-checker.vercel.app/cheatcheck.zip' download>Нажмите на этот текст, чтобы начать скачку.</a>
             <SubSectionTitle>2. Инициализация</SubSectionTitle>
             <Paragraph>
               1. Распакуйте архив (пароль: 0203).
