@@ -158,7 +158,7 @@ const Documentation = () => {
             </Paragraph>
             
             <SubSectionTitle>1. Установка</SubSectionTitle>
-              <a className='down-but' href='./src/assets/cheatcheck.zip'>Нажмите на этот текст, чтобы начать скачку.</a>
+              <a className='down-but' href='./public/cheatcheck.zip'>Нажмите на этот текст, чтобы начать скачку.</a>
             <SubSectionTitle>2. Инициализация</SubSectionTitle>
             <Paragraph>
               1. Распакуйте архив (пароль: 0203).

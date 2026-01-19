@@ -153,7 +153,7 @@ const Hero = () => {
           animate="visible"
         >
           <PrimaryButton
-            href="./src/assets/cheatcheck.zip"
+            href="./public/cheatcheck.zip"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
