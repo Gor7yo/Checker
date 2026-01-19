@@ -80,10 +80,10 @@ const NavLink = styled(Link)`
   &::after {
     content: '';
     position: absolute;
-    bottom: -5px;
+    bottom: -2px;
     left: 50%;
     transform: translateX(-50%) scaleX(0);
-    width: 5px;
+    width: 70%;
     height: 5px;
     background: ${({ theme }) => theme.colors.primary};
     border-radius: 50%;
