@@ -154,7 +154,7 @@ const Documentation = () => {
           <Section id="installation">
             <SectionTitle>Установка</SectionTitle>
             <Paragraph>
-              Для начала работы с Anti-Cheat Pro выполните следующие шаги:
+              Для начала работы с Cheat Checker выполните следующие шаги:
             </Paragraph>
             
             <SubSectionTitle>1. Установка</SubSectionTitle>
