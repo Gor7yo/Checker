@@ -140,7 +140,7 @@ const Navbar = () => {
       }}>
         <NavContainer>
           <Logo to="/">
-            <img className='logo' src="./public/logo.png" alt="logo" />
+            <img className='logo' src="https://cheat-checker.vercel.app/logo.png" alt="logo" />
             Checker
           </Logo>
 
